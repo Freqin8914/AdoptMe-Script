@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Freqin8914/AdoptMeScript/main/UniScript.txt"))()
